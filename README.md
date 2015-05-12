@@ -25,7 +25,8 @@ Build:
 
 Test:
 * Execute topnot.exe
-* Click inside the window to begin acquisition
-* When crosshairs appear, click the window that is stuck in the foreground
+* Click and hold inside the window to begin acquisition
+* When crosshairs appear, release the mouse over the window that is stuck in
+  the foreground
 * topnot.exe will close
 * Window should now be able to be covered by other windows
